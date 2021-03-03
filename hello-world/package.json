@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "forgo": "^0.0.73",
-    "forgo-lazy": "^1.1.0",
+    "forgo-lazy": "^1.1.1",
     "forgo-router": "^0.0.73"
   },
   "devDependencies": {
